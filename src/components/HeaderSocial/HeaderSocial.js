@@ -1,6 +1,8 @@
 import React, { Component } from 'react';
 import "./HeaderSocial.css";
 
+
+
 class HeaderSocial extends Component {
   render() {
     return (
@@ -12,10 +14,8 @@ class HeaderSocial extends Component {
             <div className="float-right">
               <div className="header-social social-links">
             
-                <a className="facebook" href="https://www.facebook.com/AMD/" title="facebook" target="_blank" rel="noopener noreferrer"><i className="fab fa-facebook-f"></i></a>
-                <a className="linkedin" href="https://www.linkedin.com/company/amd/" title="linkedin" target="_blank" rel="noopener noreferrer"><i className="fab fa-linkedin-in"></i></a>
-                <a className="twitter" href="https://twitter.com/AMD" title="twitter" target="_blank" rel="noopener noreferrer"><i className="fab fa-twitter"></i></a>
-                <a className="youtube" href="https://www.youtube.com/user/amd" title="youtube" target="_blank" rel="noopener noreferrer"><i className="fab fa-youtube"></i></a>
+                <a className="linkedin" href="https://www.linkedin.com/in/ezequiel-gutierrez-942865161/" title="linkedin" target="_blank" rel="noopener noreferrer"><i className="fab fa-linkedin-in"></i></a>
+                <a className="email" href="mailto:design.guiterrez44@gmail.com" title="email" target="_self"><i className="far fa-envelope"></i></a>
           
               </div>
             </div>
