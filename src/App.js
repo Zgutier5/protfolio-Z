@@ -4,6 +4,8 @@ import './App.css';
 // import the 4 main pages
 // import HomePage from "./components/HomePage/HomePage";
 import HomePage2 from "./components/HomePage/HomePage2";
+import ContactUsPage from "./components/ContactUsPage/ContactUsPage";
+
 // Page components
 import HeaderSocial from './components/HeaderSocial/HeaderSocial';
 import HeaderMenu from './components/HeaderMenu/HeaderMenu';
@@ -28,11 +30,12 @@ class App extends Component {
                 By accessing this site you consent to the use of cookies.
                 </span>
           </CookieConsent>
-          <HeaderSocial leftText="AMD at IBC 2019"/>
+          <HeaderSocial leftText="Ezequiel Gutierrez - Software Engineer"/>
           <HeaderMenu/>
           
           <Switch>
             <Route exact path="/" component={HomePage2} />
+            <Route exact path="/contact" component={ContactUsPage} />
             
           </Switch>
           
