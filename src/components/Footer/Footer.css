@@ -1,0 +1,75 @@
+.widget-title {
+  font-family: Source Sans Pro, sans-serif;
+  font-weight: 700;
+}
+
+footer {
+  background: black;
+  width: 100%;
+  padding: 60px 0 0 0;
+  font-size: 13px;
+  display: block;
+}
+
+footer .widget-title {
+  color: rgba(255, 255, 255, 0.8);
+  font-weight: bold;
+  letter-spacing: 2px;
+  text-transform: uppercase;
+  border: none;
+}
+
+footer .widget .textwidget {
+  padding: 0;
+  color: rgba(255, 255, 255, 0.8);
+  background: transparent;
+  box-shadow: none;
+  font-family: "lora", serif;
+  text-align: center;
+}
+
+.textwidget > p {
+  margin-bottom: 5px;
+  font-family: "Source Sans Pro", sans-serif;
+  font-weight: 300;
+  font-size: 16px;
+}
+
+.widget-title {
+  margin: 0 0 15px 0;
+  padding: 0;
+  text-transform: uppercase;
+  font-family: Montserrat, sans-serif;
+  font-weight: 700;
+  font-size: 18px;
+  line-height: 20px;
+  letter-spacing: 2px;
+}
+
+footer .column .widget:last-child {
+  margin-bottom: 0;
+}
+
+.widget {
+  margin-bottom: 40px;
+  width: 100%;
+}
+
+.page-link {
+  color: rgba(255, 255, 255, 0.8);
+  background-color: transparent;
+  text-align: left;
+  border: none;
+  font-family: "Source Sans Pro", sans-serif;
+  font-weight: 400;
+  font-size: 16px;
+}
+
+.page-link:hover {
+  color: rgb(55, 0, 255);
+  background-color: transparent;
+}
+
+.page_item {
+  list-style: none;
+}
