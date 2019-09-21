@@ -100,7 +100,7 @@ class HeaderMenu extends Component {
                 {/* Contact link */}
                 <div className="header-link-container">
                   <Link className="menu-link" exact to="/contact">
-                    <div className="header-link-text" style={{marginLeft: "35px"}} >Contact Us</div>
+                    <div className="header-link-text" style={{marginLeft: "32px"}} >Contact Us</div>
                   </Link>
                   <div className="header-link-underline">{' '}</div>
                 </div>
