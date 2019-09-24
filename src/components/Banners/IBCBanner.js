@@ -14,7 +14,7 @@ const IBCBanner = (props) => {
         <div className="container-fluid no-fluid-gutters title-row">
           <Default>
             <div className="row no-fluid-gutters" style={{paddingTop: "25px", paddingBottom: "15px"}} >
-                <h3></h3>
+                
                       
                     <div className="container pt-20" style={{fontSize: "25px"}} >
 
@@ -25,7 +25,7 @@ const IBCBanner = (props) => {
                           
                     </div>
 
-                  <h3></h3>
+                  
                     <div className="container pt-20">
                           
 
@@ -42,7 +42,7 @@ const IBCBanner = (props) => {
            </Default> 
            <Mobile>
             <div className="row no-fluid-gutters" style={{paddingTop: "25px", paddingBottom: "15px"}} >
-                <h3></h3>
+                
                       
                     <div className="container pt-20" style={{fontSize: "16px"}} >
 
@@ -53,7 +53,7 @@ const IBCBanner = (props) => {
                           
                     </div>
 
-                  <h3></h3>
+                  
                     <div className="container pt-20">
                           
 

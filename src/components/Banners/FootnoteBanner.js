@@ -10,7 +10,7 @@ const FootnoteBanner = (props) => {
         
         <div className="container-fluid no-fluid-gutters title-row">
             <div className="row no-fluid-gutters" style={{paddingTop: "25px", paddingBottom: "15px"}} >
-                <h3></h3>
+                
                       
                     <div className="container pt-20" style={{fontSize: "10px"}} >
 
@@ -21,7 +21,7 @@ const FootnoteBanner = (props) => {
                           
                     </div>
 
-                  <h3></h3>
+                  
                     <div className="container pt-20">
                           
 

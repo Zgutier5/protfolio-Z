@@ -40,7 +40,7 @@ class App extends Component {
           </Switch>
           
           <Footer/>
-          <HeaderSocial leftText="©2019 Advanced Micro Devices, Inc."/>
+          <HeaderSocial leftText="Ezequiel Gutierrez - Software Engineer"/>
         </div>
       </Router>
     );

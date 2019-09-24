@@ -28,12 +28,12 @@ class HeaderMenu extends Component {
           {/* This is the logo */}
           <Default>
           <NavbarBrand tag={Link} to="/">
-            <img src={LogoImg} alt="Ryzen logo" width="10%" style={{float: "left"}} />
+            <img src={LogoImg} alt="Z" width="10%" style={{float: "left"}} />
           </NavbarBrand>
           </Default>
           <Mobile>
           <NavbarBrand tag={Link} to="/">
-            <img src={LogoImg} alt="Ryzen logo" width="30%" style={{float: "center"}} />
+            <img src={LogoImg} alt="Z" width="30%" style={{float: "center"}} />
           </NavbarBrand>
           </Mobile>
           {/* this is the part of the header the collapses on mobile */}
@@ -75,12 +75,12 @@ class HeaderMenu extends Component {
           </Default>
           <Mobile>
           <Collapse isOpen={this.state.isOpen} navbar>
-            <div className="ml-auto">
-              <div className="header-container"  >
+            <div className="ml-auto"  >
+              <div className="header-container "  >
                 {/* Home link */}
-                <div className="header-link-container">
+                <div className="header-link-container col-md-4">
                   <Link className="menu-link" exact to="/">
-                    <div className="header-link-text" style={{marginLeft: "30px"}} >Home</div>
+                    <div className="header-link-text"  >Home</div>
                   </Link>
                   <div className="header-link-underline">{' '}</div>
                 </div>
@@ -88,9 +88,9 @@ class HeaderMenu extends Component {
                 
 
                 {/* Attorney Profile link */}
-                <div className="header-link-container">
+                <div className="header-link-container col-md-4">
                   <Link className="menu-link" exact to="/jailrelease">
-                    <div className="header-link-text" style={{marginLeft: "38px"}} >Projects</div>
+                    <div className="header-link-text"  >Projects</div>
                   </Link>
                   <div className="header-link-underline">{' '}</div>
                 </div>
@@ -98,9 +98,9 @@ class HeaderMenu extends Component {
                 
   
                 {/* Contact link */}
-                <div className="header-link-container">
+                <div className="header-link-container col-md-4">
                   <Link className="menu-link" exact to="/contact">
-                    <div className="header-link-text" style={{marginLeft: "32px"}} >Contact Us</div>
+                    <div className="header-link-text"   >Contact</div>
                   </Link>
                   <div className="header-link-underline">{' '}</div>
                 </div>
