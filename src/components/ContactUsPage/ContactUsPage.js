@@ -220,7 +220,7 @@ class ContactUsPage extends Component {
                 <br/>
                 <strong>Fax:</strong> &nbsp; (512)-597-0727
                 <br/>
-                <strong>Email:</strong> &nbsp; <a href="mailto:michaeladcuellar@gmail.com">MichaeladCuellar@gmail.com</a>
+                <strong>Email:</strong> &nbsp; <a href="mailto:design.gutierrez44@gmail.com">Design.gutierrez44@gmail.com</a>
               </p>
             </div>
           </div>
