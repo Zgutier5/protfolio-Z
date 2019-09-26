@@ -1,6 +1,6 @@
 import React from 'react';
 import "./ProjectA.css";
-import ProjectAimg from "../../assets/Michaela D. Cuellar.png"
+import ProjectAimg from "../../assets/Michaela D. Cuellar.jpg"
 import Responsive from 'react-responsive';
 
 const Mobile = props => <Responsive {...props} maxWidth={767} />;

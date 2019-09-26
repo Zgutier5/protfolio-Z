@@ -1,6 +1,6 @@
 import React from 'react';
 import "./ProjectB.css";
-import ProjectBimg from "../../assets/JS Cheats.png"
+import ProjectBimg from "../../assets/JS Cheats.jpg"
 import Responsive from 'react-responsive';
 
 const Mobile = props => <Responsive {...props} maxWidth={767} />;
