@@ -53,7 +53,7 @@ class HeaderMenu extends Component {
 
                 {/* Attorney Profile link */}
                 <div className="header-link-container">
-                  <Link className="menu-link" exact to="/jailrelease">
+                  <Link className="menu-link" exact to="/projects">
                     <div className="header-link-text" style={{marginLeft: "15px"}} >Projects</div>
                   </Link>
                   <div className="header-link-underline">{' '}</div>
@@ -89,7 +89,7 @@ class HeaderMenu extends Component {
 
                 {/* Attorney Profile link */}
                 <div className="header-link-container col-md-4">
-                  <Link className="menu-link" exact to="/jailrelease">
+                  <Link className="menu-link" exact to="/projects">
                     <div className="header-link-text"  >Projects</div>
                   </Link>
                   <div className="header-link-underline">{' '}</div>

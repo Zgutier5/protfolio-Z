@@ -11,6 +11,7 @@ import HeaderSocial from './components/HeaderSocial/HeaderSocial';
 import HeaderMenu from './components/HeaderMenu/HeaderMenu';
 import Footer from './components/Footer/Footer';
 import CookieConsent from "react-cookie-consent";
+import ProjectsPage from './components/ProjectsPage/ProjectsPage';
 
 class App extends Component {
   render() {
@@ -35,7 +36,7 @@ class App extends Component {
           
           <Switch>
             <Route exact path="/" component={HomePage2} />
-            {/* <Route exact path="/projects" component={ProjectsPage} /> */}
+            <Route exact path="/projects" component={ProjectsPage} />
             <Route exact path="/contact" component={ContactUsPage} />
             
           </Switch>
