@@ -38,7 +38,7 @@ Versed in HTML5, Bootstrap, CSS3, JavaScript, JQuery, AJAX, Node.js, Express.js,
                         </div>
                         <div className="pt-5">
                                     <button type="button" class="btn btn-warning" style={{fontSize: "20px", padding: "15px", marginBottom: "15px", textDecoration: "none"}}>
-                                    <a href="/projects" data-lpos="paragraph-link" target="_blank" style={{textDecorationColor: "white"}} >
+                                    <a href="/projects" data-lpos="paragraph-link" style={{textDecorationColor: "white"}} >
                                     Projects</a>
                                     </button>
                         </div>
@@ -57,7 +57,7 @@ Versed in HTML5, Bootstrap, CSS3, JavaScript, JQuery, AJAX, Node.js, Express.js,
                         </div>
                         <div className="pt-5">
                                     <button type="button" class="btn btn-warning" style={{fontSize: "20px", padding: "15px", marginBottom: "15px", textDecoration: "none"}}>
-                                    <a href="/projects" data-lpos="paragraph-link" target="_blank" style={{textDecorationColor: "white"}} >
+                                    <a href="/projects" data-lpos="paragraph-link" style={{textDecorationColor: "white"}} >
                                     Projects</a>
                                     </button>
                         </div>
