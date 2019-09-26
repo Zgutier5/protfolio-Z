@@ -207,20 +207,16 @@ class ContactUsPage extends Component {
             <div className="col-md-6">
               <h3 className="contact-header">Get In Touch</h3>
               <p className="contact-desc">
-                Contact my office today at (512)-765-6341 or email me to schedule a
-                complimentary consultation and take the first step toward receiving the professional
-                representation you deserve. This could be the most important call of your life.
+              Thank you for your interest. Please complete the form given so we can better understand your needs. 
+              Also if you have questions or inquries that require immediate response, feel free to email directly.
+                
               </p>
               <br/>
-              <h3 className="contact-header">Contact Us</h3>
+
+              
               <p className="contact-desc">
-                <strong>Address:</strong> &nbsp; 507 W 10th St.  Austin, TX 78701
-                <br/>
-                <strong>Phone:</strong> &nbsp; <a href= "tel:(512)-765-6341">(512)-765-6341</a>
-                <br/>
-                <strong>Fax:</strong> &nbsp; (512)-597-0727
-                <br/>
-                <strong>Email:</strong> &nbsp; <a href="mailto:design.gutierrez44@gmail.com">Design.gutierrez44@gmail.com</a>
+          
+                <strong>Email:</strong> &nbsp; <a href="mailto:design.gutierrez44@gmail.com">design.gutierrez44@gmail.com</a>
               </p>
             </div>
           </div>
