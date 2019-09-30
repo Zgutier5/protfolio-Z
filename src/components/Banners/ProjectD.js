@@ -34,7 +34,7 @@ const ProjectD = (props) => {
                         </div>
                         <div className="pt-5">
                          I was contracted to build this custom promotional website.. Built with react, bootstrap, react-strap, custom css, react-router.
-Site shows everything from Contact information, Services offered, Social media links. I also manage and host the site <a href="https://www.amd-ibcshow.com" target="_blank">amd-ibcshow.com</a>.     
+Site shows everything from Contact information, Services offered, Social media links. I also manage and host the site <a href="https://www.amd-ibcshow.com" target="_blank" rel="noopener noreferrer">amd-ibcshow.com</a>.     
                         </div>
                         
                         
@@ -47,7 +47,7 @@ Site shows everything from Contact information, Services offered, Social media l
                         </div>
                         <div className="pt-5">
                         I was contracted to build this custom promotional website.. Built with react, bootstrap, react-strap, custom css, react-router.
-Site shows everything from Contact information, Services offered, Social media links. I also manage and host the site <a href="https://www.amd-ibcshow.com" target="_blank">amd-ibcshow.com</a>.
+Site shows everything from Contact information, Services offered, Social media links. I also manage and host the site <a href="https://www.amd-ibcshow.com" target="_blank" rel="noopener noreferrer">amd-ibcshow.com</a>.
                         </div>
                        
                         

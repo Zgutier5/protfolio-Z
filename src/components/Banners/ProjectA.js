@@ -34,7 +34,7 @@ const ProjectA = (props) => {
                         </div>
                         <div className="pt-5">
                         Custom law firm website. Built with react, bootstrap, react-strap, custom css, react-router.
-Site shows everything from Contact information, Services offered, Attorney profile, Social media links, and google maps location. I also manage and host the site <a href="https://www.michaelacuellar.com" target="_blank">michaelacuellar.com</a>.
+Site shows everything from Contact information, Services offered, Attorney profile, Social media links, and google maps location. I also manage and host the site <a href="https://www.michaelacuellar.com" target="_blank" rel="noopener noreferrer">michaelacuellar.com</a>.
                        </div>
                         
                         
@@ -47,7 +47,7 @@ Site shows everything from Contact information, Services offered, Attorney profi
                         </div>
                         <div className="pt-5">
                         Custom law firm website. Built with react, bootstrap, react-strap, custom css, react-router.
-Site shows everything from Contact information, Services offered, Attorney profile, Social media links, and google maps location. I also manage and host the site <a href="https://www.michaelacuellar.com" target="_blank">michaelacuellar.com</a>. 
+Site shows everything from Contact information, Services offered, Attorney profile, Social media links, and google maps location. I also manage and host the site <a href="https://www.michaelacuellar.com" target="_blank" rel="noopener noreferrer">michaelacuellar.com</a>. 
                         </div>
                        
                         

@@ -3,7 +3,7 @@ import "./ProjectsPage.css";
 
 // import BlueIcon from "../BlueIcon/BlueIcon";
 
-import Responsive from 'react-responsive';
+
 
 import ProjectA from '../Banners/ProjectA';
 import ProjectB from '../Banners/ProjectB';

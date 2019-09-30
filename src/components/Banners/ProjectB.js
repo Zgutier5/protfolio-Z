@@ -36,7 +36,7 @@ const ProjectB = (props) => {
                         Js-cheats is a where beginner coders learning javascript can look up built in methods.
 The site consist String methods, Number methods, and Array methods. 
 Site also has authentication with and blog post for questions. 
-Back end database with mongoDB. Feel free to visit <a href="https://js-cheats.now.sh" target="_blank">js-cheats</a>.                     </div>
+Back end database with mongoDB. Feel free to visit <a href="https://js-cheats.now.sh" target="_blank" rel="noopener noreferrer">js-cheats</a>.                     </div>
                         
                         
                       </div> 
@@ -50,7 +50,7 @@ Back end database with mongoDB. Feel free to visit <a href="https://js-cheats.no
                         Js-cheats is a where beginner coders learning javascript can look up built in methods.
 The site consist String methods, Number methods, and Array methods. 
 Site also has authentication with and blog post for questions. 
-Back end database with mongoDB. Feel free to visit <a href="https://js-cheats.now.sh" target="_blank">js-cheats</a>. 
+Back end database with mongoDB. Feel free to visit <a href="https://js-cheats.now.sh" target="_blank" rel="noopener noreferrer">js-cheats</a>. 
                         </div>
                        
                         
