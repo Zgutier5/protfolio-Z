@@ -1,6 +1,6 @@
 import React from 'react';
 import "./ProjectD.css";
-import ProjectDimg from "../../assets/AMC-IBC.jpg"
+import ProjectDimg from "../../assets/AMD-IBC.jpg"
 import Responsive from 'react-responsive';
 
 const Mobile = props => <Responsive {...props} maxWidth={767} />;
