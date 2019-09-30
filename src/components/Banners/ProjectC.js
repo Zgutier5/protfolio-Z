@@ -30,10 +30,10 @@ const ProjectC = (props) => {
                       <div className="col-md-6 text-left" style={{marginTop: "20px", marginBottom: "20px"}} >
                         <div style={{marginTop: "30px"}} >
                         
-                        <h3>AMD Promotional Site</h3>
+                        <h3>AMD D2 Vienna Site</h3>
                         </div>
                         <div className="pt-5">
-                         I was contracted to build this custom promotional website.. Built with react, bootstrap, react-strap, custom css, react-router.
+                         I was contracted to build this custom promotional website. Built with react, bootstrap, react-strap, custom css, react-router.
 Site shows everything from Contact information, Services offered, Social media links. I also manage and host the site <a href="https://www.amd-d2vienna.com" target="_blank" rel="noopener noreferrer">amd-d2vienna.com</a>.     
                         </div>
                         
@@ -43,10 +43,10 @@ Site shows everything from Contact information, Services offered, Social media l
                       <Mobile>
                       <div className="col-md-6 text-left" style={{marginTop: "20px", marginBottom: "20px"}} >
                         <div style={{marginTop: "30px"}} >
-                        <h3>AMD Promotional Site</h3>
+                        <h3>AMD D2 Vienna Site</h3>
                         </div>
                         <div className="pt-5">
-                        I was contracted to build this custom promotional website.. Built with react, bootstrap, react-strap, custom css, react-router.
+                        I was contracted to build this custom promotional website. Built with react, bootstrap, react-strap, custom css, react-router.
 Site shows everything from Contact information, Services offered, Social media links. I also manage and host the site <a href="https://www.amd-d2vienna.com" target="_blank" rel="noopener noreferrer">amd-d2vienna.com</a>.
                         </div>
                        
