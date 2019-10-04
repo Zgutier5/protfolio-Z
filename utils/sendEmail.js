@@ -24,7 +24,7 @@ exports.sendEmail = function (recipient, name, subject, message) {
         console.log('text: ', text);
         
         let transporter = nodeMailer.createTransport({
-          host: 'smtp.googlemail.com', // Gmail Host
+          host: 'smtp.gmail.com', // Gmail Host
           port: 465, // Port
           secure: true, // this is true as port is 465
           auth: {
