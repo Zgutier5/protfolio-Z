@@ -56,7 +56,7 @@ app.use("/api", emailRoute);
 // });
 
 // set the backend server port
-const port = process.env.PORT || 5000;
+const port = process.env.PORT || 4000;
 
 // a catchall route if any API calls aren't used, then serve the index.html built by react
 // this needs to be after all other routes
