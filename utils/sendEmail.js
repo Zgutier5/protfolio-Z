@@ -32,6 +32,7 @@ exports.sendEmail = function (recipient, name, subject, message) {
             pass: process.env.CUELLAR_CONTACT_EMAIL_PASS // Gmail password
           }
         });
+        
         // if the TEST_EMAIL env var is set to true, add "TEST MAIL" to the subject
         const fromEmail = (process.env.TEST_EMAIL)
                           ? `"Cuellar Law - TEST MAIL" <contactpage.cuellarlaw@gmail.com>`
